@@ -399,6 +399,7 @@ provides
 put
 q
 que
+quot
 quickly
 quite
 qv
